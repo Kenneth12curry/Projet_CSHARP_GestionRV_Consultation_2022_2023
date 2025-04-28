@@ -1,4 +1,5 @@
 Gestion de Consultations Médicales
+
 Description
 Application de bureau permettant la gestion des consultations médicales et la prise de rendez-vous pour les patients.
 Elle propose une interface pour les patients, médecins et secrétaires, facilitant la planification, la gestion et le suivi des rendez-vous.
@@ -22,9 +23,3 @@ Technologie : WinForms
 Base de données : SQL Server
 
 IDE : Visual Studio
-
-Installation
-Cloner le dépôt :
-
-
-
